@@ -1,3 +1,3 @@
 # Zauri
 
-<p><ahref="/BVAWebDev/OnlineNewsArticle-.htm" target ="_self"> Online News Article Assignment</a></p>
+<p><ahref="/BVAWebDev/OnlineNewsArticle-.htm" Online News Article Assignment="_self"></a></p>
