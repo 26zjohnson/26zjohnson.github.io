@@ -93,7 +93,7 @@
 <p>In the embed area, you will be a paragraph of code and under that at the bottom of the box, there will be a copy button. Click it.</p>
 <img src= "video-embed-step-4.png" height= "250px" style= "float:left;">
 <p>After copying your code, go into your web design app. Go into the editing space and paste.</p>
-<img src= "video-embed-step-4.png" height= "250px" style= "float:left;">
+<img src= "video-embed-step-5.png" height= "250px" style= "float:left;">
 <p> Now check your work to make sure it was copied down correctly and that’s it!<p/>
 
 
