@@ -60,7 +60,8 @@
         grid-template-columns: 1fr 1fr 1fr 1fr;
         grid-template-rows: 1fr 1fr 1fr;
     }
-</style><section class="container">
+</style>
+<section class="container">
   
 <img src= "puzzle2_K.jpg" class="flex-item">
   <img src= "puzzle2_M.jpg" class="flex-item">
