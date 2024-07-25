@@ -41,7 +41,7 @@
 		<td>(192,100%,50%)</td>
 		<td>(60,100%,50%)</td>
 	</tr>
-
+<hr/>
 <h2>Team Members</h2>
 <img src= "sanseveria-plant.jpg" alt= "green developed sansevieria plant in a grey pot" style= "float:left;">
 <p>Hello! I am the oldest and most experienced member of the window plant team. I am a Sansevieria plant which is a desert plant that does not need a lot of water. I can deal with a lot of different lights. I am okay with direct and indirect light at different levels, although I do like a good amount. This team has not been together for very long and as its longest member I have been here for a little over a year. I probably got here around April or May of last year. I actually started off as a bathroom plant, but there wasn’t enough space for me on that team so I was taken off and moved to the window plant team. I’m not sure if he’s visible, but there’s another plant in here with me. None of us expected it, he just showed up one day. He is the next team member you’ll meet. He is baby Sansevieria. </p>
@@ -53,7 +53,7 @@
 <p>Hello everyone, I am glad you want to know about the window plant team. My place on the team varies as I have not been identified yet. My identification is a work in progress. Identification is typically needed to be on this team, but I was admitted on an exception which was wonderful! I will continue to do what I can until I am identified!</p>
 
 <p>Link to Homepage</p>
-
+<hr/>
 <h2>Snowman Puzzle</h2>
 <style>
     section.grid-container {
@@ -76,5 +76,6 @@
 <img src= "puzzle2_H.jpg" class= "flex-item">
 <img src= "puzzle2_I. jpg" class= "flex-item">
 </section>
+<hr/>
 <h2>Video Embed Tutorial</h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/L8RY2hZLcCE?si=sFJlA2V7-9QGKZsf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
