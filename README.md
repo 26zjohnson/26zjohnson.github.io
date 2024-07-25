@@ -1,11 +1,11 @@
 # Zauri
 <h2> Wild Mustangs <h2>
-<img src=“mustang-image-one.jpg”
-	alt=“cremello mustang stallion watching his herd” />
-<img src=“mustang-image-two.jpg”
-	alt=“a female and male wild mustang touch noses”/>
-<img src=“mustang-image-three.jpg”
-	alt=“three wild mustangs running together”/>
+<img src="mustang-image-one.jpg"
+	alt="cremello mustang stallion watching his herd" />
+<img src="mustang-image-two.jpg"
+	alt="a female and male wild mustang touch noses"/>
+<img src="mustang-image-three.jpg"
+	alt="three wild mustangs running together"/>
 
  <style>
     table, tr, td {
@@ -19,9 +19,9 @@
 	<tr>
 		<td><p style="background-color:rgb(255,204,153);"> Blanched Almond</p></td>
 <td><p style=“background-color:rgb(153,102,51);”>Saddle Brown</p></td>
-		<td><p style=“background-color:rgb(255,102,102);”>Tomato</p></td>
-		<td><p style= “background-color:rgb(0,204,255);”>Deep Sky Blue</p></td>
-		<td><p style= “background-color:rgb(255,255,0);”>Yellow</p></td>
+		<td><p style="background-color:rgb(255,102,102);">Tomato</p></td>
+		<td><p style= "background-color:rgb(0,204,255);">Deep Sky Blue</p></td>
+		<td><p style= "background-color:rgb(255,255,0);">Yellow</p></td>
 	</tr>
 	<tr>
 		<td>#FFCC99</td>
