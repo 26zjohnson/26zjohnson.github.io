@@ -80,19 +80,20 @@
 <hr/>
 <h2>Video Embed Tutorial</h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/L8RY2hZLcCE?si=sFJlA2V7-9QGKZsf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><h2>How to Embed a Hosted Video into a Website</h2>
+
 <p>Embedding a hosted video is extremely simple and this tutorial will teach you how to do it.</p>
 <p>The first step in this process is to select your video you would like to embed. Some videos may not have this, option, so you will be able to see in later steps.</p>
-<img src= “video-embed-step-1.png” height= “250px” style= “float:left;”>
+<img src= "video-embed-step-1.png" height= "250px" style= "float:left;">
 <p>The second step is to click on your selected video.</p>
-<img src- “video-embed-step-2.png” height= “250px” style= “float:left;”>
+<img src= "video-embed-step-2.png" height= "250px" style= "float:left;">
 <p> Next, make sure your video is not in theater mode or full screen, then under the bottom right corner of you video screen there will be several options. Click the “share” button.</p>
-<img src= “video-embed-step-3.png” height= “250px” style= “float:left;”>
+<img src= "video-embed-step-3.png" height= "250px" style= "float:left;">
 <p>Now in the options to share, there should be a button that says “embed”. If there is no such option, then this may be an example of a video that the owner does not want to be used by others.</p>
-<img src= “video-embed-step-3.png” height= “250px” style= “float:left;”>
+<img src= "video-embed-step-3.png" height= "250px" style= "float:left;">
 <p>In the embed area, you will be a paragraph of code and under that at the bottom of the box, there will be a copy button. Click it.</p>
-<img src= “video-embed-step-4.png” height= “250px” style= “float:left;”>
+<img src= "video-embed-step-4.png" height= "250px" style= "float:left;">
 <p>After copying your code, go into your web design app. Go into the editing space and paste.</p>
-<img src= “video-embed-step-4.png” height= “25-px” style= “float:left;”>
+<img src= "video-embed-step-4.png" height= "250px" style= "float:left;">
 <p> Now check your work to make sure it was copied down correctly and that’s it!<p/>
 
 
