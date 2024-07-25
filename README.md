@@ -6,6 +6,7 @@
 	alt="a female and male wild mustang touch noses"/>
 <img src="mustang-image-three.jpg"
 	alt="three wild mustangs running together"/>
+<hr/>
 <h2>Color Scheme Assignment</h2>
 
 <table>
