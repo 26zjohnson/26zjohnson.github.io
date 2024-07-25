@@ -7,11 +7,7 @@
 <img src="mustang-image-three.jpg"
 	alt="three wild mustangs running together"/>
 <h2>Color Scheme Assignment</h2>
- <style>
-    table, tr, td {
-        border: 1px solid black;
-    }
-</style>
+
 <table>
 	<tr>
 		<th colspan="5">Daisy Jones & the Six Book Cover</th>
