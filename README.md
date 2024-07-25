@@ -14,7 +14,7 @@
 </style>
 <table>
 	<tr>
-		<th> colspan="5">Daisy Jones & the Six Book Cover</th>
+		<th colspan="5">Daisy Jones & the Six Book Cover</th>
 	</tr>
 	<tr>
 		<td><p style="background-color:rgb(255,204,153);"> Blanched Almond</p></td>
