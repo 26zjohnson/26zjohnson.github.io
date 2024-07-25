@@ -53,10 +53,9 @@
 
 <p>Link to Homepage</p>
 
-
+<h2>Snowman Puzzle</h2>
 <style>
     section.grid-container {
-        display: grid;
         grid-template-columns: 1fr 1fr 1fr 1fr;
         grid-template-rows: 1fr 1fr 1fr;
     }
