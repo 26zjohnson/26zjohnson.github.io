@@ -41,6 +41,7 @@
 		<td>(192,100%,50%)</td>
 		<td>(60,100%,50%)</td>
 	</tr>
+</table
 <hr/>
 <h2>Team Members</h2>
 <img src= "sanseveria-plant.jpg" alt= "green developed sansevieria plant in a grey pot" style= "float:left;">
