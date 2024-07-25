@@ -52,3 +52,26 @@
 <p>Hello everyone, I am glad you want to know about the window plant team. My place on the team varies as I have not been identified yet. My identification is a work in progress. Identification is typically needed to be on this team, but I was admitted on an exception which was wonderful! I will continue to do what I can until I am identified!</p>
 
 <p>Link to Homepage</p>
+
+
+<style>
+    section.grid-container {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+        grid-template-rows: 1fr 1fr 1fr;
+    }
+</style><section class="container">
+  
+<img src= "puzzle2_K.jpg" class="flex-item">
+  <img src= "puzzle2_M.jpg" class="flex-item">
+  <img src= "puzzle2_E.jpg" class="flex-item">
+<img src= "puzzle2_G.jpg" class= "flex-item">
+<img src= "puzzle2_A.jpg" class= "flex-item">
+<img src= "puzzle2_D.jpg" class= "flex-item">
+<img src= "puzzle2_L.jpg" class= "flex-item">
+<img src= "puzzle2_B.jpg" class= "flex-item">
+<img src= "puzzle2_F.jpg" class= "flex-item">
+<img src= "puzzle2_J.jpg" class= "flex-item">
+<img src= "puzzle2_H.jpg" class= "flex-item">
+<img src= "puzzle2_I. jpg" class= "flex-item">
+</section>
